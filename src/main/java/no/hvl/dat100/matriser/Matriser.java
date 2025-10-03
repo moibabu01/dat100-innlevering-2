@@ -85,7 +85,9 @@ public class Matriser {
     }
 
     // f)
+    public static int[][] multipliser(int[][] a, int[][] b) {
 
 
-
-   }
+        return a;
+    }
+    }
